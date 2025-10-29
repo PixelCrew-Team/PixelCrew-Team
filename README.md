@@ -1,6 +1,6 @@
-<h1 align="center">PROFILE THE PIXELCREW TEAM</p>
+<h1 align="center">PROFILE</p>
 <p>
-        <img src= "https://files.catbox.moe/petcot.jpg">
+        <img src= "https://files.catbox.moe/b4s8o4.jpg">
     </p>
 
 </details>
