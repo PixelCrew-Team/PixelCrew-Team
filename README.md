@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">PROFILE THE PIXELCREW TEAM</p>
+<p>
+        <img src= "https://files.catbox.moe/petcot.jpg">
+    </p>
 
-<!--
-**PixelCrew-Team/PixelCrew-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `General Description`
+
+We are a team of united developers who enjoy contributing code to the entire developer community that strives to create websites and other things in the world of programming. We hope our projects are useful to you and that you use them.
+
+</details>
+
+---
